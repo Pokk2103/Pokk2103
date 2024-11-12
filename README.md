@@ -6,4 +6,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Pokk2103&show_icons=true&cache_seconds=86400&theme=ambient_gradient"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pokk2103&layout=compact">
 
 <img src="https://github-profile-trophy.vercel.app/?username=Pokk2103&theme=darkhub">
-<img src="./profile-3d-contrib/profile-night-reinbow.svg">
+<img src="./profile-3d-contrib/profile-night-rainbow.svg">
